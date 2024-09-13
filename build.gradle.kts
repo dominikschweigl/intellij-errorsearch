@@ -4,7 +4,7 @@ plugins {
     id("org.jetbrains.intellij") version "1.17.2"
 }
 
-group = "com.error_search"
+group = "com"
 version = "1.0-SNAPSHOT"
 
 repositories {
