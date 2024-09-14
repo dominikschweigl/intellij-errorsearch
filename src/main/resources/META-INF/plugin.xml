@@ -15,6 +15,7 @@
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
     Adds web search functionality to Code Editor Problem View
+    <br/>
     Shortcut: <code>CTRL + ALT + E</code>
   ]]></description>
 
