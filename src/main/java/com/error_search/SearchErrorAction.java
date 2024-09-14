@@ -37,6 +37,4 @@ public class SearchErrorAction extends AnAction {
                 node.getProblem().getText()
         ));
     }
-
-
 }
